@@ -44,7 +44,8 @@ To get the zero-shot predictions follow the instructions in Predictions folder
 For version 2 of the paper the following lines have to be ajusted in the script file:  
 perc=('0.5') -> perc=('0.33' '0.66')  
 for((h_id=0; h_id < 1; h_id++)) -> for((h_id=0; h_id < 2; h_id++))  
-Furthermore, setting the augmentation flag aug_flac='0' to aug_flac='1' improves the results.  
+Furthermore, setting the augmentation aug_flac='1' improves the results.  
+To change to DAPL predictions set pretext='1' - due to the size only the predictions for OH and VisDA for seed 42 for the ViT backbone are uploaded
 
 ### Citation
 If you use SWG code please cite:
