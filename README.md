@@ -38,7 +38,7 @@ Example from art of OfficeHome:
 /home/xxx/OfficeHome/Art/Backpack/00004.jpg 1  
 
 ### Zero Shot predictions
-To get the zero-shot predictions follow the Predictions folder
+To get the zero-shot predictions follow the instructions in Predictions folder
 
 ### Version 2
 For version 2 of the paper the following lines have to be ajusted in the script file:  
