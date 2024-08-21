@@ -1,0 +1,6 @@
+pytorch
+torchvision
+tqdm
+scikit-learn
+tensorboard
+scikit-image
