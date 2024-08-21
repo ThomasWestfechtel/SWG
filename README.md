@@ -10,6 +10,11 @@ The strong guidance uses hard labels but is only applied to the most confident p
 We show that our method complements and benefits from prompt adaptation techniques for vision-language models.
 We conduct experiments and ablation studies on three benchmarks (OfficeHome, VisDA, and DomainNet), outperforming state-of-the-art methods. Our ablation studies further demonstrate the contributions of different components of our algorithm.
 
+### Requirements
+Beside the requirements.txt this project employs:
+pip install git+https://github.com/openai/CLIP.git
+pip install git+https://github.com/ildoonet/pytorch-randaugment
+
 ### Usage
 For ViT backbone:  
 To train the network on OfficeHome: 	bash train_oh_ViT.sh 0  
