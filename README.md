@@ -1,5 +1,5 @@
 # SWG
-PyTorch Code for SWG - Combining inherent knowledge of vision-language models with unsupervised domain adaptation through strong-weak guidance
+PyTorch Code for SWG - Combining inherent knowledge of vision-language models with unsupervised domain adaptation through strong-weak guidance (WACV 2025 accepted) 
 https://arxiv.org/abs/2312.04066
 
 ### Method overview
